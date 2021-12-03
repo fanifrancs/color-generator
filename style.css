@@ -19,7 +19,7 @@
     margin-left: 2.5%;
     border-radius: 10px;
     height: 50px;
-    box-shadow: 5px 5px 10px grey;
+    box-shadow: 3px 3px 8px grey;
     border: none;
     width: 95%;
     font-size: 20px;
@@ -44,6 +44,6 @@ input{
     font-size: 20px;
     color: rgb(255, 253, 253);
     background-color: rgb(48, 48, 48);
-    font-family: cursive;
+    font-family: Verdana;
 }
 
